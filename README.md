@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SpartanTR38
-- 👀 I’m interested in writeing code
+- 👀 I’m interested in Code
 - 🌱 I’m currently learning Codding
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
